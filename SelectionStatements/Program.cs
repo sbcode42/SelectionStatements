@@ -25,12 +25,26 @@ namespace SelectionStatements
                 Console.WriteLine("Nevermind");
             }
 
+            
+
             Console.WriteLine("What is your favorite school subject?");
-            var userSubject = (Console.ReadLine());
+            string userSubject = (Console.ReadLine());
            
             switch(userSubject)
             {
-
+                case "c#":
+                    Console.WriteLine("Your are in the right class!");
+                    break;
+                case "Java":
+                    Console.WriteLine("C# is better than Java.");
+                    break;
+                case "English":
+                    Console.WriteLine("I like your style:");
+                    break;
+                default:
+                    Console.WriteLine("That is different, Good for you!");
+                    break;
+                
             }
         }
     }

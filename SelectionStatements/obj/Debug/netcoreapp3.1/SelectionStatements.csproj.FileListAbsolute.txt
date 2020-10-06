@@ -11,3 +11,16 @@ C:\Users\sbhop\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreap
 C:\Users\sbhop\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.dll
 C:\Users\sbhop\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.pdb
 C:\Users\sbhop\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.genruntimeconfig.cache
+C:\Users\Testpiggy\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.exe
+C:\Users\Testpiggy\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.deps.json
+C:\Users\Testpiggy\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.json
+C:\Users\Testpiggy\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.dev.json
+C:\Users\Testpiggy\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.dll
+C:\Users\Testpiggy\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.pdb
+C:\Users\Testpiggy\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csprojAssemblyReference.cache
+C:\Users\Testpiggy\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfoInputs.cache
+C:\Users\Testpiggy\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfo.cs
+C:\Users\Testpiggy\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\Testpiggy\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.dll
+C:\Users\Testpiggy\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.pdb
+C:\Users\Testpiggy\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.genruntimeconfig.cache

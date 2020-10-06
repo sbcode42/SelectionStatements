@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\sbhop\\.nuget\\packages\\": {}
+    "C:\\Users\\Testpiggy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sbhop\\repos\\SelectionStatements\\SelectionStatements\\SelectionStatements.csproj",
+      "projectUniqueName": "C:\\Users\\Testpiggy\\repos\\SelectionStatements\\SelectionStatements\\SelectionStatements.csproj",
       "projectName": "SelectionStatements",
-      "projectPath": "C:\\Users\\sbhop\\repos\\SelectionStatements\\SelectionStatements\\SelectionStatements.csproj",
-      "packagesPath": "C:\\Users\\sbhop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sbhop\\repos\\SelectionStatements\\SelectionStatements\\obj\\",
+      "projectPath": "C:\\Users\\Testpiggy\\repos\\SelectionStatements\\SelectionStatements\\SelectionStatements.csproj",
+      "packagesPath": "C:\\Users\\Testpiggy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Testpiggy\\repos\\SelectionStatements\\SelectionStatements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sbhop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Testpiggy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
